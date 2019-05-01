@@ -5,7 +5,7 @@ Install Node.js using detailed installation instructions here
 
 Clone repository
 
-     git clone https://github.com/janith29/library.git
+     git clone https://github.com/janith29/library1.git
     
 first do:
 
